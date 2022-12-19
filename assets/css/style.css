@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    background-color: antiquewhite;
+    border: 2px solid black;
+    padding: 25px 10px;
+    margin: 50px 25px 10px;
+
+}
+
+p{
+    display: block;
+    background-color: green;
+    border: 5px solid black;
+    padding: 5px 2px;
+    margin: 10px;
+}
